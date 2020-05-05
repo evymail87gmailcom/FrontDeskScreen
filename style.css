@@ -1,0 +1,94 @@
+﻿body
+{
+    
+    background-color:cadetblue;
+}
+.topDiv {
+    display: flex;
+    height:100px;
+}
+.timeDiv {
+   
+    width:20%;
+    border-style: solid;
+    border-color: black;
+    float:left;
+    height:100px;
+}
+#h3head {
+    border-bottom-style:solid;
+
+}
+#info {
+    
+}
+
+.weatherDiv {
+   
+    width: 30%;
+    border-style: solid;
+    border-color: black;
+    height:100px;
+   
+  
+}
+#weatherHeader {
+    border-bottom-style: solid;
+
+}
+
+
+
+.employeeDiv {
+   
+    width: 60%;
+    border-style: solid;
+    border-color: black;
+    height:250px;
+}
+
+#employeeHeader {
+    border-bottom-style: solid;
+    
+}
+
+
+
+
+
+
+.secondDiv {
+    margin-top:50px;
+    display: flex;
+    width:50%;
+    height:150px;
+    
+
+}
+.songDiv {
+    width: 90%;
+    border-style: solid;
+    border-color: black;
+  height:67%;
+}
+#songHeader{
+
+}
+
+
+
+
+.thirdDiv {
+
+    display: flex;
+    width:100%;
+    height: 50px;
+}
+
+
+.departureTable {
+    width: 100%;
+    border-style: solid;
+    border-color: black;
+    height: 50%;
+}
